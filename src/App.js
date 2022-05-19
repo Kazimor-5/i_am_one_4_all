@@ -1,4 +1,5 @@
 // ! COMPONENTS
+import Header from './components/Header';
 import Participation from './components/Participation';
 import Challenge from './components/Challenge';
 import Etapes from './components/Etapes';
@@ -7,11 +8,14 @@ import './App.css';
 
 const App = () => {
   return (
-    <main className='container'>
-      <Participation />
-      <Challenge />
-      <Etapes />
-    </main>
+    <>
+      <Header />
+      <main className='container'>
+        <Participation />
+        <Challenge />
+        <Etapes />
+      </main>
+    </>
   );
 };
 

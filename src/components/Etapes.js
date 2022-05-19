@@ -5,8 +5,7 @@ const Etapes = () => {
   return (
     <section className='section-etapes'>
       <article className='etapes'>
-        <h3>Comment participer à l'Opération #JeSuisOne4All ?</h3>
-        <h4>5 étapes essentielles pour une cause commune !</h4>
+        <h3>Comment participer à l’Opération #JeSuisOne4all en 5 étapes ?</h3>
         <ul>
           <li>
             <p>
@@ -18,11 +17,13 @@ const Etapes = () => {
               (un dessin personnalisé aux couleurs de #One4all ainsi que la
               mention : #JeSuisOne4all sont indispensables)
             </p>
+          </li>
+          <li>
             <a
               href='../../public/document/pancarteOne4All-A4.pdf'
               target='_blank'
               download='pancarteOne4All-A4'
-              className='download'
+              className='btn'
             >
               Télécharger la pancarte
             </a>
@@ -36,39 +37,37 @@ const Etapes = () => {
               <span className='bold'>
                 challengez 5 amis à relever le défi en 5 jours
               </span>
-              . Une fois le défi relevé, votre participation vous engage à
-              entretenir cette chaîne altruiste ! Vous devenez le capitaine
-              d’une équipe de 5 personnes sur qui vous devez compter{' '}
-              <span className='bold'>#jecomptesurtoi</span>.
+              .
+              <p>
+                Vous devenez le capitaine d’une équipe de 5 personnes sur qui
+                vous devez compter <span className='bold'>#jecomptesurtoi</span>
+                .
+              </p>
             </p>
             <p>
-              Le défi est validé lorsque vos{' '}
-              <span className='bold'>5 coéquipiers</span> ont posté leur photo
-              ou vidéo dans les <span className='bold'>5 jours</span> sur leur
-              profil avec le{' '}
-              <span className='bold'>hashtag #JeSuisOne4all</span>.
+              Le défi est validé uniquemen lorsque vos{' '}
+              <span className='bold'>5 coéquipiers</span> ont eux aussi
+              participé au Challenge dans les{' '}
+              <span className='bold'>5 jours</span> sur leur profil.
             </p>
             <p>
-              <span className='bold'>Assurez-vous</span> que vos coéquipiers
-              vous mentionnent dans leur post. Choisissez donc des amis qui
-              aiment les défis collectifs et en qui vous avez confiance pour
-              vous suivre !
+              <span className='bold'>Veillez</span> à ce que chacun d’eux{' '}
+              <span className='bold'>perpétue la chaîne</span> !!!
+            </p>
+            <p>
+              Si l’un des <span className='bold'>5 challengers</span> n’a pas
+              participé dans les <span className='bold'>5 jours</span>, le
+              capitaine de l’équipe perd le défi 🙁 et s’engage à verser en
+              gage, <span className='bold'>1€</span> à l’association{' '}
+              <span className='one4all-font'>#One4all</span>
+              par challenger non comptabilisé
             </p>
           </li>
           <li>
             <p>
               3 - <span className='bold'>Faites</span> un don et{' '}
-              <span className='bold'>invitez</span> vos amis à s’engager dans la
-              chaîne de solidarité altruiste. A son tour, chaque personne
-              nominée a <span className='bold'>5 jours</span> pour réaliser une
-              photo ou une vidéo et la poster sur son profil facebook ou
-              instagram. Veillez à ce que chacun d’eux{' '}
-              <span className='bold'>perpétue la chaîne</span> !!! Si l’un des 5
-              challengers n’a pas participé dans les 5 jours, le capitaine de
-              l’équipe perd le défi lancé 🙁 et s’engage à verser en gage,{' '}
-              <span className='bold'>1€</span> à l’association{' '}
-              <span className='one4all-font'>#One4All</span> par challenger non
-              comptabilisé.
+              <span className='bold'>invitez</span> vos amis à vous suivre dans
+              la chaîne de solidarité Altruiste.
             </p>
           </li>
           <li>
@@ -82,25 +81,13 @@ const Etapes = () => {
           </li>
           <li>
             <p>
-              5 - <span className='bold'>Votre participation</span> vous a donné
-              envie de vous <span className='bold'>engager</span> et faire
-              partie de l’Histoire ? <span className='bold'>Rejoignez</span> la
-              communauté <span className='one4all-font'>#One4all</span> et{' '}
-              <span className='bold'>entrez</span>
-              au <span className='bold'>Panthéon* des Héros</span> qui auront
-              œuvré en faveur de la Paix.
-            </p>
-            <p>
-              Chaque personne ayant effectué un don d’un montant minimum de 20€,
-              pourra, s’il le souhaite, voir son nom figurer au panthéon des
-              Héros du Liberty Memorial*.
+              5 - <span className='bold'>Rejoignez</span> la communauté #One4all
+              et <span className='bold'>relayez</span> le message de Paix du
+              <span className='bold'>Mouvement Altruiste</span> au plus grand
+              nombre.
             </p>
           </li>
         </ul>
-        <p className='small'>
-          *Pour en savoir plus sur le projet du Liberty Memorial{' '}
-          <a href='#'>Cliquez ici</a>.
-        </p>
       </article>
     </section>
   );

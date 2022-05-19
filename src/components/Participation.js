@@ -5,7 +5,6 @@ const Participation = () => {
   return (
     <section className='section-participation'>
       <article className='participation'>
-        <h1>Participez à l'opération: #JeSuisOne4All !</h1>
         <p>
           Face au conflit en Ukraine, de nombreuses personnes et structures sont
           touchées mais beaucoup d'autre vies sont impactées par les

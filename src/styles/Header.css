@@ -1,0 +1,17 @@
+.header {
+  height: 50vh;
+  background-image: url('../../public//assets/fond_operation_o4a.jpg');
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+}
+.header-title {
+  width: 90%;
+  position: absolute;
+  right: 2%;
+  transform: translateX(-2%);
+}
