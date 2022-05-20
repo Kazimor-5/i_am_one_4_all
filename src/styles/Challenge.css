@@ -11,6 +11,10 @@
   }
 }
 @media screen and (min-width: 1024px) {
+  .section-challenge {
+    margin: 0 auto;
+    width: 90%;
+  }
   .img-container {
     width: 30%;
   }
