@@ -11,6 +11,7 @@ const App = () => {
   return (
     <>
       <Header />
+      <article className='separate'></article>
       <main className='container'>
         <Participation />
         <Challenge />

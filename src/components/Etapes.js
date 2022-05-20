@@ -69,6 +69,11 @@ const Etapes = () => {
             </p>
           </li>
           <li>
+            <a href='#' className='btn'>
+              Faire un don
+            </a>
+          </li>
+          <li>
             <p>
               4 - <span className='bold'>Exprimez</span> votre soutien et{' '}
               <span className='bold'>affichez</span> le filtre photo de

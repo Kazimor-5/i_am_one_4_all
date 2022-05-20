@@ -5,9 +5,9 @@
   overflow: hidden;
 }
 .slider-container {
-  /* height: 450px; */
-  width: 90vw;
-  /* max-width: 800px; */
+  height: 350px;
+  width: calc(310px - 1rem);
+  max-width: 450px;
   aspect-ratio: 1 / 1;
   margin: 0 auto;
   position: relative;

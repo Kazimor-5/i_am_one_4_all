@@ -7,7 +7,7 @@ const Slide = ({ slide, position }) => {
 
   return (
     <div className={`slide ${position}`}>
-      <img src={src} alt={name} className='img' />
+      <img src={src} alt={name} className='slide-img' />
     </div>
   );
 };
