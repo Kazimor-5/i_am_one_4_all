@@ -84,8 +84,9 @@ const Etapes = () => {
           </li>
           <li>
             <p>
-              5 - <span className='bold'>Rejoignez</span> la communauté #One4all
-              et <span className='bold'>relayez</span> le message de Paix du{' '}
+              5 - <span className='bold'>Rejoignez</span> la communauté{' '}
+              <span className='one4all-font'>#One4All</span> et{' '}
+              <span className='bold'>relayez</span> le message de Paix du{' '}
               <span className='bold'>Mouvement Altruiste</span> au plus grand
               nombre.
             </p>

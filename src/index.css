@@ -72,6 +72,7 @@ a {
 }
 .italic {
   font-style: italic;
+  font-family: 'Desyrel';
 }
 .img {
   height: 100%;
@@ -102,4 +103,7 @@ a {
 .header-title > h1 {
   color: var(--primary-500);
   margin: 0;
+}
+.challenge > h3 {
+  color: var(--primary-500);
 }
