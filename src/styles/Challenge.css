@@ -1,0 +1,17 @@
+.citation {
+  text-align: center;
+}
+@media screen and (min-width: 768px) {
+  .citation {
+  font-size: 1.1rem;
+  }
+  .img-container {
+    margin: 0 auto;
+    width: 40%;
+  }
+}
+@media screen and (min-width: 1024px) {
+  .img-container {
+    width: 30%;
+  }
+}
