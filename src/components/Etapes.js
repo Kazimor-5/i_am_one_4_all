@@ -23,7 +23,7 @@ const Etapes = () => {
             <a
               href='./document/pancarteOne4All-A4.pdf'
               download='pancarteOne4All-A4'
-              className='btn'
+              className='btn download'
             >
               Télécharger la pancarte
             </a>
@@ -33,36 +33,37 @@ const Etapes = () => {
               2 - <span className='bold'>Réalisez une photo</span> et/ou{' '}
               <span className='bold'>vidéo</span> originale avec votre pancarte
               en inscrivant votre pseudonyme et votre lieu de résidence.{' '}
-              <span className='bold'>Postez-là</span> sur vos réseaux sociaux et{' '} :
+              <span className='bold'>Postez-là</span> sur vos réseaux sociaux et{' '}
+              :
             </p>
             <ul className='etape-etape-2'>
               <li className='bold'>
-                  * challengez 5 amis à relever le défi en 5 jours
+                challengez 5 amis à relever le défi en 5 jours
               </li>
               <li>
-                * Vous devenez le capitaine d’une équipe de 5 personnes sur qui vous
-                devez compter <span className='bold'>#jecomptesurtoi</span>.
+                Vous devenez le capitaine d’une équipe de 5 personnes sur qui
+                vous devez compter <span className='bold'>#jecomptesurtoi</span>
+                .
               </li>
               <li>
-                * Le défi est validé uniquemen lorsque vos{' '}
+                Le défi est validé uniquemen lorsque vos{' '}
                 <span className='bold'>5 coéquipiers</span> ont eux aussi
                 participé au Challenge dans les{' '}
                 <span className='bold'>5 jours</span> sur leur profil.
               </li>
               <li>
-                * <span className='bold'>Veillez</span> à ce que chacun d’eux{' '}
+                <span className='bold'>Veillez</span> à ce que chacun d’eux{' '}
                 <span className='bold'>perpétue la chaîne</span> !!!
               </li>
               <li>
-                * Si l’un des <span className='bold'>5 challengers</span> n’a pas
+                Si l’un des <span className='bold'>5 challengers</span> n’a pas
                 participé dans les <span className='bold'>5 jours</span>, le
                 capitaine de l’équipe perd le défi 🙁 et s’engage à verser en
                 gage, <span className='bold'>1€</span> à l’association{' '}
-                <span className='one4all-font'>#One4all</span> par challenger non
-                comptabilisé
+                <span className='one4all-font'>#One4all</span> par challenger
+                non comptabilisé
               </li>
             </ul>
-            
           </li>
           <li>
             <p>

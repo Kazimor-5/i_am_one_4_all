@@ -5,9 +5,9 @@
   overflow: hidden;
 }
 .slider-container {
-  height: 350px;
+  height: 450px;
   width: calc(310px - 1rem);
-  max-width: 450px;
+  max-width: 500px;
   aspect-ratio: 1 / 1;
   margin: 0 auto;
   position: relative;
@@ -24,31 +24,3 @@
   transform: translateX(-100%);
   opacity: 0;
 }
-/*
-.section-slider {
-  width: 80vw;
-  max-width: 1170px;
-  margin: 0 auto;
-  overflow: hidden;
-  height: 800px;
-}
-.slider-container {
-  height: auto;
-  width: 100%;
-  max-width: 1200px;
-  aspect-ratio: 1 / 1;
-  margin: 0 auto;
-  position: relative;
-}
-.active-slide {
-  opacity: 1;
-  transform: translateX(0);
-}
-.next-slide {
-  transform: translateX(100%);
-  opacity: 0;
-}
-.prev-slide {
-  transform: translateX(-100%);
-  opacity: 0;
-}*/
