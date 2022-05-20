@@ -1,4 +1,4 @@
-const slides = [
+export const slides = [
   {
     id: 1,
     src: './assets/slider_image/a_truffert.jpeg',
@@ -41,12 +41,12 @@ const slides = [
   },
   {
     id: 9,
-    src: './assets/slider_image/l_tchaouna.jpeg',
+    src: './assets/slider_image/l_tchaouna.png',
     name: 'l tchaouna',
   },
   {
     id: 10,
-    src: './assets/slider_image/l_ugochukwu.jpeg',
+    src: './assets/slider_image/l_ugochukwu.png',
     name: 'l ugochukwu',
   },
   {
@@ -56,27 +56,27 @@ const slides = [
   },
   {
     id: 12,
-    src: './assets/slider_image/lovro_majer.jpeg',
+    src: './assets/slider_image/lovro_majer.png',
     name: 'lovro majer',
   },
   {
-    id: 12,
-    src: './assets/slider_image/martin_terrier.jpeg',
+    id: 13,
+    src: './assets/slider_image/martin_terrier.png',
     name: 'martin terrier',
   },
   {
-    id: 13,
-    src: './assets/slider_image/nayef_auguerd.jpeg',
-    name: 'nayef auguerd',
+    id: 14,
+    src: './assets/slider_image/nayef_aguerd.jpeg',
+    name: 'nayef aguerd',
   },
   {
-    id: 14,
+    id: 15,
     src: './assets/slider_image/owdy.jpeg',
     name: 'owdy',
   },
   {
-    id: 15,
-    src: './assets/slider_image/pepe_bonnet.jpeg',
-    name: 'pepe bonnet',
+    id: 16,
+    src: './assets/slider_image/pepe_bonet.jpeg',
+    name: 'pepe bonet',
   },
 ];

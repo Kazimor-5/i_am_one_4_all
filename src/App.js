@@ -5,6 +5,7 @@ import Challenge from './components/Challenge';
 import Etapes from './components/Etapes';
 // ! FILES
 import './App.css';
+import Slider from './components/Slider';
 
 const App = () => {
   return (
@@ -14,6 +15,7 @@ const App = () => {
         <Participation />
         <Challenge />
         <Etapes />
+        <Slider />
       </main>
     </>
   );

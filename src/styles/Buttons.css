@@ -1,0 +1,12 @@
+.prev-btn, .next-btn {
+  position: absolute;
+  bottom: 0;
+  transform: translateY(-50%);
+}
+.prev-btn {
+  left: 5%;
+}
+.next-btn {
+  right: 5%;
+}
+

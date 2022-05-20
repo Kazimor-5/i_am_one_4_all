@@ -38,11 +38,10 @@ const Etapes = () => {
                 challengez 5 amis à relever le défi en 5 jours
               </span>
               .
-              <p>
-                Vous devenez le capitaine d’une équipe de 5 personnes sur qui
-                vous devez compter <span className='bold'>#jecomptesurtoi</span>
-                .
-              </p>
+            </p>
+            <p>
+              Vous devenez le capitaine d’une équipe de 5 personnes sur qui vous
+              devez compter <span className='bold'>#jecomptesurtoi</span>.
             </p>
             <p>
               Le défi est validé uniquemen lorsque vos{' '}

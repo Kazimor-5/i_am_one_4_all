@@ -1,0 +1,26 @@
+.section-slider {
+  width: 90vw;
+  max-width: 1170px;
+  margin: 0 auto;
+  overflow: hidden;
+}
+.slider-container {
+  /* height: 450px; */
+  width: 90vw;
+  /* max-width: 800px; */
+  aspect-ratio: 1 / 1;
+  margin: 0 auto;
+  position: relative;
+}
+.active-slide {
+  opacity: 1;
+  transform: translateX(0);
+}
+.next-slide {
+  transform: translateX(100%);
+  opacity: 0;
+}
+.prev-slide {
+  transform: translateX(-100%);
+  opacity: 0;
+}
