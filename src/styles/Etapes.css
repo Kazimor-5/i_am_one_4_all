@@ -1,0 +1,22 @@
+.etapes > h3 {
+    color: var(--primary-500);
+    }
+
+.etapes ul{
+    display: flex;
+    align-items: flex-start;
+}
+
+.etapes .etape-etape-2{
+    
+    align-content: center;
+    justify-content: center;
+    
+}
+.etapes .btn{
+    display: flex;
+    align-content: center;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+}
