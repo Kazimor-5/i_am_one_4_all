@@ -73,7 +73,10 @@ const Etapes = () => {
             </p>
           </li>
           <li>
-            <a href='#' className='btn'>
+            <a
+              href='https://www.leetchi.com/c/soutenez-one4all-lw4ga96w'
+              className='btn'
+            >
               Faire un don
             </a>
           </li>
@@ -83,7 +86,7 @@ const Etapes = () => {
               <span className='bold'>affichez</span> le filtre photo de
               l’opération sur votre profil{' '}
               <span className='bold'>Facebook</span> ou{' '}
-              <span className='bold'>Instagram</span>. (lien filtre)
+              <span className='bold'>Instagram</span>. {/* (lien filtre) */}
             </p>
           </li>
           <li>
