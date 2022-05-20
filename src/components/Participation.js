@@ -1,5 +1,6 @@
 // ! FILES
 import React from 'react';
+import '../styles/Participation.css';
 
 const Participation = () => {
   return (

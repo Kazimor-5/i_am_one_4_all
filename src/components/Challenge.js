@@ -1,5 +1,6 @@
 //  ! FILES
 import React from 'react';
+import '../styles/Challenge.css';
 
 const Challenge = () => {
   return (
@@ -16,7 +17,7 @@ const Challenge = () => {
           Ensemble, gagnons le combat contre la guerre et ses conséquences
           sociales &amp; économiques.
         </p>
-        <p className='bold italic'>
+        <p className='citation bold italic'>
           « La coopération altruiste est la clé du problème dans lequel chacun
           de nous est enfermé.»
         </p>

@@ -1,0 +1,13 @@
+.etapes > h3 {
+    color: var(--primary-500);
+    }
+.etapes .etape-etape-2{
+    align-content: center;
+    justify-content: center;
+}
+@media screen and (min-width: 1024px) {
+    .section-etapes {
+        margin: 0 auto;
+        width: 90%;
+    }
+}
