@@ -20,8 +20,7 @@ const Etapes = () => {
           </li>
           <li>
             <a
-              href='../../public/document/pancarteOne4All-A4.pdf'
-              target='_blank'
+              href='./document/pancarteOne4All-A4.pdf'
               download='pancarteOne4All-A4'
               className='btn'
             >
@@ -58,8 +57,8 @@ const Etapes = () => {
               participé dans les <span className='bold'>5 jours</span>, le
               capitaine de l’équipe perd le défi 🙁 et s’engage à verser en
               gage, <span className='bold'>1€</span> à l’association{' '}
-              <span className='one4all-font'>#One4all</span>
-              par challenger non comptabilisé
+              <span className='one4all-font'>#One4all</span> par challenger non
+              comptabilisé
             </p>
           </li>
           <li>
@@ -72,8 +71,8 @@ const Etapes = () => {
           <li>
             <p>
               4 - <span className='bold'>Exprimez</span> votre soutien et{' '}
-              <span className='bold'>affichez</span>
-              le filtre photo de l’opération sur votre profil{' '}
+              <span className='bold'>affichez</span> le filtre photo de
+              l’opération sur votre profil{' '}
               <span className='bold'>Facebook</span> ou{' '}
               <span className='bold'>Instagram</span>. (lien filtre)
             </p>
@@ -81,7 +80,7 @@ const Etapes = () => {
           <li>
             <p>
               5 - <span className='bold'>Rejoignez</span> la communauté #One4all
-              et <span className='bold'>relayez</span> le message de Paix du
+              et <span className='bold'>relayez</span> le message de Paix du{' '}
               <span className='bold'>Mouvement Altruiste</span> au plus grand
               nombre.
             </p>
